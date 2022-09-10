@@ -1,3 +1,6 @@
+
+//Creación deplegable de las funciones moviles en el menú
+
 (function(){
     const openButton = document.querySelector('.nav__menu');
     const menu = document.querySelector('.nav__link');

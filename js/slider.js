@@ -1,3 +1,6 @@
+//Creación de las funciones de transisión de las diapositivas
+
+
 (function(){
 
     const sliders = [...document.querySelectorAll('.testimony__body')];

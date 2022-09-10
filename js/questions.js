@@ -1,3 +1,6 @@
+//Creación de las funciones de los elementos desplegables en las preguntas frecuentes
+
+
 (function(){
     const titleQuestions = [...document.querySelectorAll('.questions__title')];
     console.log(titleQuestions)
